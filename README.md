@@ -4,4 +4,4 @@ evaluating model accuracy through both train-test splits and cross-validation. I
 
 evaluate the optimal number of clusters. Separately, in the Employee Burnout analysis, I conducted both regression and classification modeling to identify factors contributing to high mental fatigue and to classify employees at risk. These projects helped strengthen my skills in data cleaning, transformation, model evaluation, 
 
-and interpretation—laying a solid foundation for using machine learning in business and human resource analytics.
+and interpretation—laying a solid foundation for using machine learning in business and human resource analytics
